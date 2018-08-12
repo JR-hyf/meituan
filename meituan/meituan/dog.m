@@ -10,4 +10,9 @@
 
 @implementation dog
 
+-(void)setAge:(int)age{
+    
+    _age = 18;
+}
+
 @end
