@@ -13,6 +13,7 @@
 -(void)setAge:(int)age{
     
     _age = 18;
+    NSLog(@"hahahaha");
 }
 
 @end
